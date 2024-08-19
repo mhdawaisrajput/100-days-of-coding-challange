@@ -24,3 +24,5 @@ Q30 - Hello Admin: Make a array of five or more usernames, including the name 'a
 
 • If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
+
+
